@@ -22,4 +22,4 @@
 # These are all the locales that have translations and are displayable
 # by TextView in this branch.
 # CyanogenMod
-PRODUCT_LOCALES := en_US zh_CN zh_TW zh_HK
+PRODUCT_LOCALES := zh_CN en_US zh_TW zh_HK
